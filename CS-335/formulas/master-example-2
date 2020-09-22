@@ -1,0 +1,6 @@
+T(n) = 3T(\frac{n}{2}) + O(n) \\
+a = 3 \\
+b = 2 \\
+d = 1 \\
+\textrm{Since } d < log_b(a), \\
+T(n) = O(n^{log_b(a)})  = O(n^{log_2(3)})

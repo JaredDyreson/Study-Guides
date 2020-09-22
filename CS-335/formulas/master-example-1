@@ -1,0 +1,5 @@
+T(n) = 4T(\frac{n}{2}) + O(n^1) \\
+a = 4 \\
+b = 2 \\
+d = 1 \\
+\textrm{Since } d < log_b(a), T(n) = O(n^{log_b(a)}) = O(n^2)

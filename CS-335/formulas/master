@@ -1,0 +1,6 @@
+\textrm{If } T(n) = aT(\frac{n}{b}) + O(n^{d}) \textrm{ (for constants } a > 0, b > 1, d \ge 0), \textrm{ then:} \textrm{ } T(n)=
+\begin{cases}
+O(n^d) & \textrm{if } d > log_b(a)\\
+O(n^dlog(n)) & \textrm{if } d = log_b(a)\\
+O(n^{log_b(a)}) & \textrm{if } d > log_b(a)
+\end{cases}

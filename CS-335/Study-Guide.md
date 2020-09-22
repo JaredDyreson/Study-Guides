@@ -105,6 +105,16 @@ A square matrix used to represent a finite graph. The elements of the matrix ind
 
 [![](http://img.youtube.com/vi/2H0GKdrIowU/0.jpg)](http://www.youtube.com/watch?v=2H0GKdrIowU "Master Theorem")
 
+![Equation](assets/master-theorem.png)
+
+### Examples
+
+- ![Example 1](assets/master-theorem-example-1.png)
+=====================================================
+- ![Example 2](assets/master-theorem-example-2.png)
+=====================================================
+- ![Example 3](assets/master-theorem-example-3.png)
+
 ## Sorting Algorithms
 
 Please refer to [this document](https://github.com/JaredDyreson/university/blob/master/4/Fall/CS-335/notes/chapter-3/Chapter-3.md) for more information

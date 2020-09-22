@@ -1,0 +1,6 @@
+T(n) = 2T(\frac{n}{2}) + O(n) \\
+a = 2 \\
+b = 2 \\
+d = 1 \\
+\textrm{Since } d = log_b(a), \\
+T(n) = O(n^dlog(n)) = O(nlog(n))
