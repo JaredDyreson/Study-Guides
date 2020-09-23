@@ -33,9 +33,9 @@ I have no idea what this is for
 - The highest order term matters. Such term will outgrow the other one.
 - Please refer to [this document](https://github.com/JaredDyreson/university/blob/master/4/Fall/CS-335/notes/chapter-2/Big-Notation-Notes.pdf) for graphs
 - Omega (&Omega;): does the function on the **left** supersede the function on the **right**?
-    - <img src="https://latex.codecogs.com/svg.latex?\large&space;5n^2 = \Omega(n)" title="Example" />
+    - <img src="https://latex.codecogs.com/svg.latex?\large&space;5n^2 = \Omega(n)" title="Omgea" />
 - Theta (&Theta;): does the function on the **right** supersede the function on the **left**?
-    - <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{n^2}{2} - \frac{n}{2} = \Theta(n^2)" title="Example" />
+    - <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{n^2}{2} - \frac{n}{2} = \Theta(n^2)" title="Theta" />
 
 ## Graph Terms
 
